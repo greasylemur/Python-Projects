@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<?xml-stylesheet type="text/xsl" href="/xsl/events.xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GovEvents.com Event Feed</title>
+    <description>GovEvents.com upcoming events feed</description>
+    <link>http://www.govevents.com/</link>
+    <language>en-us</language>
+    <copyright>Copyright (C) 2021 govevents.com</copyright>
+    <atom:link href="http://www.govevents.com/events.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title><![CDATA[Scotland's AI Strategy: Trustworthy, Ethical & Inclusive]]></title>
+      <link>http://www.govevents.com/details/49323/scotlands-ai-strategy-trustworthy-ethical-and-inclusive/</link>
+      <guid>http://www.govevents.com/details/49323/scotlands-ai-strategy-trustworthy-ethical-and-inclusive/</guid>
+      <description><![CDATA[December 16, 2021 <br /> Find out about Scotland&amp;rsquo;s AI Strategy: Trustworthy, Ethical and Inclusive. Scotland&amp;rsquo;s AI Strategy sets out a vision for Scotland to bec...]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Tyndall AFB Tech Expo]]></title>
+      <link>http://www.govevents.com/details/14968/tyndall-afb-tech-expo/</link>
+      <guid>http://www.govevents.com/details/14968/tyndall-afb-tech-expo/</guid>
+      <description><![CDATA[December 16, 2021 <br /> Join NCSI for an In-Agency Event Tyndall AFB Tech Expo December 16, 2021 Each year NCSI produces over 100 tabletop technology expos at U.S. Departm...]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Oregon Information Technology/Telecommunication Regional Resiliency Assessment Program (RRAP)  Kick Off]]></title>
+      <link>http://www.govevents.com/details/51517/oregon-information-technologytelecommunication-regional-resiliency-assessment-program-rrap-kick-off/</link>
+      <guid>http://www.govevents.com/details/51517/oregon-information-technologytelecommunication-regional-resiliency-assessment-program-rrap-kick-off/</guid>
+      <description><![CDATA[December 16, 2021 <br /> 2021-Oregon Information Technology/Telecommunication Regional Resiliency Assessment Program (RRAP) Hosted by Oregon&amp;rsquo;s State Resilience Office...]]></description>
+    </item>
+    <item>
+      <title><![CDATA[TMF Forward]]></title>
+      <link>http://www.govevents.com/details/48285/tmf-forward/</link>
+      <guid>http://www.govevents.com/details/48285/tmf-forward/</guid>
+      <description><![CDATA[December 16, 2021 <br /> The pandemic showed that Federal computer systems are aging, redundant, and struggling. Congress appropriated $1 billion to the Technology Moderniz...]]></description>
+    </item>
+    <item>
+      <title><![CDATA[govDelivery Advanced Bulletin Training Session]]></title>
+      <link>http://www.govevents.com/details/49879/govdelivery-advanced-bulletin-training-session/</link>
+      <guid>http://www.govevents.com/details/49879/govdelivery-advanced-bulletin-training-session/</guid>
+      <description><![CDATA[December 16, 2021 <br /> We offer weekly live training sessions for the most commonly used features in govDelivery. These training sessions last roughly an hour and are con...]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Build a Modern Identity Infrastructure: From the Ground, to the Cloud]]></title>
+      <link>http://www.govevents.com/details/50924/build-a-modern-identity-infrastructure-from-the-ground-to-the-cloud/</link>
+      <guid>http://www.govevents.com/details/50924/build-a-modern-identity-infrastructure-from-the-ground-to-the-cloud/</guid>
+      <description><![CDATA[December 16, 2021 <br /> Join Chad Peterson, Senior Sales Engineer at Okta, as he discusses how to retire costly legacy infrastructure and complex code development by moder...]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Dear Security, Compliance, and Auditors, We're Sorry. Love, DevOps]]></title>
+      <link>http://www.govevents.com/details/51154/dear-security-compliance-and-auditors-were-sorry-love-devops/</link>
+      <guid>http://www.govevents.com/details/51154/dear-security-compliance-and-auditors-were-sorry-love-devops/</guid>
+      <description><![CDATA[December 16, 2021 <br /> DevOps solved the Developer and Operators conflict, although forgot other essential folks of the delivery lifecycle: Security, Compliance, and Audi...]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Tech Talk: All the Fixings with Identity and Endpoint Protection]]></title>
+      <link>http://www.govevents.com/details/51254/tech-talk-all-the-fixings-with-identity-and-endpoint-protection/</link>
+      <guid>http://www.govevents.com/details/51254/tech-talk-all-the-fixings-with-identity-and-endpoint-protection/</guid>
+      <description><![CDATA[December 16, 2021 <br /> Just like the best holiday meals, our shared partnerships and technologies come together for a complete offering. Join the December Tech Talk as we...]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Financial Planning For Federal Employees with Ed Zurndorfer]]></title>
+      <link>http://www.govevents.com/details/51440/financial-planning-for-federal-employees-with-ed-zurndorfer/</link>
+      <guid>http://www.govevents.com/details/51440/financial-planning-for-federal-employees-with-ed-zurndorfer/</guid>
+      <description><![CDATA[December 16, 2021 <br /> Join us for a virtual retirement benefits webinar for Federal Government Employees. From a local &amp;ldquo;federal benefits guru,&amp;rdquo; Ed Zurndorfer...]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Thinking Out Cloud: How the Cloud Is Transforming Research]]></title>
+      <link>http://www.govevents.com/details/51549/thinking-out-cloud-how-the-cloud-is-transforming-research/</link>
+      <guid>http://www.govevents.com/details/51549/thinking-out-cloud-how-the-cloud-is-transforming-research/</guid>
+      <description><![CDATA[December 16, 2021 <br /> This webinar is a part of the EDUCAUSE Industry &amp;amp; Campus Solutions series. Researchers today need to analyze and store massive amounts of data...]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Contractor's Performance Assessment Reporting System (CPARS)]]></title>
+      <link>http://www.govevents.com/details/51694/contractors-performance-assessment-reporting-system-cpars/</link>
+      <guid>http://www.govevents.com/details/51694/contractors-performance-assessment-reporting-system-cpars/</guid>
+      <description><![CDATA[December 16, 2021 <br /> When you are looking for a good contractor to do work on your house, you may likely go to Consumer Reports, Angie&amp;rsquo;s List, the Better Business...]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Minimizing Your Legal Risk for Whistleblower Claims Under the False Claims Act]]></title>
+      <link>http://www.govevents.com/details/51695/minimizing-your-legal-risk-for-whistleblower-claims-under-the-false-claims-act/</link>
+      <guid>http://www.govevents.com/details/51695/minimizing-your-legal-risk-for-whistleblower-claims-under-the-false-claims-act/</guid>
+      <description><![CDATA[December 16, 2021 <br /> PilieroMazza&amp;rsquo;s Labor &amp;amp; Employment for Government Contractors Team is presenting a multi-part series to help employers understand the lega...]]></description>
+    </item>
+    <item>
+      <title><![CDATA[The Gartner Hype Cycle for AI: Prioritize & Accelerate Innovation Investments]]></title>
+      <link>http://www.govevents.com/details/51706/the-gartner-hype-cycle-for-ai-prioritize-and-accelerate-innovation-investments/</link>
+      <guid>http://www.govevents.com/details/51706/the-gartner-hype-cycle-for-ai-prioritize-and-accelerate-innovation-investments/</guid>
+      <description><![CDATA[December 16, 2021 <br /> The artificial intelligence (AI) market continues to evolve, and more AI innovations enter the Gartner Hype Cycle. The Hype Cycle for Artificial In...]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Dashboard in a Day - Dimensional Strategies Inc.]]></title>
+      <link>http://www.govevents.com/details/51733/dashboard-in-a-day--dimensional-strategies-inc/</link>
+      <guid>http://www.govevents.com/details/51733/dashboard-in-a-day--dimensional-strategies-inc/</guid>
+      <description><![CDATA[December 16, 2021 <br /> At Microsoft, we understand that in the current economic climate you are being asked to enhance your business by leveraging data to make critical b...]]></description>
+    </item>
+    <item>
+      <title><![CDATA[DoD Looks to the Constellations]]></title>
+      <link>http://www.govevents.com/details/51816/dod-looks-to-the-constellations/</link>
+      <guid>http://www.govevents.com/details/51816/dod-looks-to-the-constellations/</guid>
+      <description><![CDATA[December 16, 2021 <br /> The Space Development Agency, founded in March 2019, was founded to pursue the new National Defense Space Architecture (NDSA). The NDSA is routed i...]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Roadmap to Modernization]]></title>
+      <link>http://www.govevents.com/details/51817/roadmap-to-modernization/</link>
+      <guid>http://www.govevents.com/details/51817/roadmap-to-modernization/</guid>
+      <description><![CDATA[December 16, 2021 <br /> Join us for the latest edition of Roadmap to Modernization, where government leaders reveal how they are turning insights and ideas into action thr...]]></description>
+    </item>
+    <item>
+      <title><![CDATA[CISA Tabletop Exercise Package (CTEP) Workshop]]></title>
+      <link>http://www.govevents.com/details/51946/cisa-tabletop-exercise-package-ctep-workshop/</link>
+      <guid>http://www.govevents.com/details/51946/cisa-tabletop-exercise-package-ctep-workshop/</guid>
+      <description><![CDATA[December 16, 2021 <br /> PLEASE NOTE: There is no registration for this event. If you have any questions, please reach out to cisa.exercises@cisa.dhs.gov. In order to suppo...]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Cybersecurity and the New Space Race]]></title>
+      <link>http://www.govevents.com/details/51883/cybersecurity-and-the-new-space-race/</link>
+      <guid>http://www.govevents.com/details/51883/cybersecurity-and-the-new-space-race/</guid>
+      <description><![CDATA[December 16, 2021 <br /> The Space Economy is in hyper-growth. According to Morgan Stanley, &amp;ldquo;The revenue generated by the global space industry may increase to more t...]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Escalate Productivity and Collaboration with Automated Digital Forms]]></title>
+      <link>http://www.govevents.com/details/51905/escalate-productivity-and-collaboration-with-automated-digital-forms/</link>
+      <guid>http://www.govevents.com/details/51905/escalate-productivity-and-collaboration-with-automated-digital-forms/</guid>
+      <description><![CDATA[December 16, 2021 <br /> The past year and a half required agencies at every level of government to reevaluate internal and external workflows and convert legacy systems to...]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Using Cloud to Accelerate Research]]></title>
+      <link>http://www.govevents.com/details/51906/using-cloud-to-accelerate-research/</link>
+      <guid>http://www.govevents.com/details/51906/using-cloud-to-accelerate-research/</guid>
+      <description><![CDATA[December 16, 2021 <br /> The mission of public research, with the use of both public and private data, is to serve the critical role of providing scientific and technical l...]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Dashboard in a Day - MCA Connect]]></title>
+      <link>http://www.govevents.com/details/51928/dashboard-in-a-day--mca-connect/</link>
+      <guid>http://www.govevents.com/details/51928/dashboard-in-a-day--mca-connect/</guid>
+      <description><![CDATA[December 16, 2021 <br /> At Microsoft, we understand that in the current economic climate you are being asked to enhance your business by leveraging data to make critical b...]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Windows 365 and Azure Virtual Desktop: Understand Solutions for Hybrid Work]]></title>
+      <link>http://www.govevents.com/details/51929/windows-365-and-azure-virtual-desktop-understand-solutions-for-hybrid-work/</link>
+      <guid>http://www.govevents.com/details/51929/windows-365-and-azure-virtual-desktop-understand-solutions-for-hybrid-work/</guid>
+      <description><![CDATA[December 16, 2021 <br /> Join this webinar to learn about Windows 365 and Azure Virtual Desktop, two solutions from Microsoft that help you enable secure hybrid work for em...]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Azure webinar series Migrate Windows and SQL Server with Azure VMware Solution]]></title>
+      <link>http://www.govevents.com/details/51930/azure-webinar-series-migrate-windows-and-sql-server-with-azure-vmware-solution/</link>
+      <guid>http://www.govevents.com/details/51930/azure-webinar-series-migrate-windows-and-sql-server-with-azure-vmware-solution/</guid>
+      <description><![CDATA[December 16, 2021 <br /> Take advantage of Azure VMware Solution to easily migrate your Windows Server and SQL Server workloads running on VMware. With the recently announc...]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Zoom Trainings - December]]></title>
+      <link>http://www.govevents.com/details/51942/zoom-trainings--december/</link>
+      <guid>http://www.govevents.com/details/51942/zoom-trainings--december/</guid>
+      <description><![CDATA[December 16, 2021 <br /> Are you wondering what capabilities your agency can unlock with your Zoom for Government account? Don't miss out on Carahsoft's weekly trainings an...]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Migrate & Modernize with VMware Cloud on AWS]]></title>
+      <link>http://www.govevents.com/details/51965/migrate-and-modernize-with-vmware-cloud-on-aws/</link>
+      <guid>http://www.govevents.com/details/51965/migrate-and-modernize-with-vmware-cloud-on-aws/</guid>
+      <description><![CDATA[December 16, 2021 <br /> Whether you are considering a data center expansion, full migration, disaster recovery, or building brand new applications, VMware Cloud on AWS can...]]></description>
+    </item>
+    <item>
+      <title><![CDATA[See How the Jackson County, Mo., Collection Department is Transforming Government Services]]></title>
+      <link>http://www.govevents.com/details/52009/see-how-the-jackson-county-mo-collection-department-is-transforming-government-services/</link>
+      <guid>http://www.govevents.com/details/52009/see-how-the-jackson-county-mo-collection-department-is-transforming-government-services/</guid>
+      <description><![CDATA[December 16, 2021 <br /> The events of the past 18 months focused even greater attention on the need for effective and user-friendly digital government services. Digital se...]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Building a Flexible Framework for Implementing Zero Trust]]></title>
+      <link>http://www.govevents.com/details/52016/building-a-flexible-framework-for-implementing-zero-trust/</link>
+      <guid>http://www.govevents.com/details/52016/building-a-flexible-framework-for-implementing-zero-trust/</guid>
+      <description><![CDATA[December 16, 2021 <br /> It is easy to say, &amp;ldquo;Never trust &amp;ndash; always verify.&amp;rdquo; It is much harder to put that philosophy into practice, even though zero trust...]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Thinking Beyond IT Service Management (ITSM)]]></title>
+      <link>http://www.govevents.com/details/52025/thinking-beyond-it-service-management-itsm/</link>
+      <guid>http://www.govevents.com/details/52025/thinking-beyond-it-service-management-itsm/</guid>
+      <description><![CDATA[December 16, 2021 <br /> Fast, easy, personalized digital services drive our lives as consumers. As employees, we expect the same level of consumer-style service at work. E...]]></description>
+    </item>
+    <item>
+      <title><![CDATA[CIO Summit - San Francisco Bay Area]]></title>
+      <link>http://www.govevents.com/details/52026/cio-summit--san-francisco-bay-area/</link>
+      <guid>http://www.govevents.com/details/52026/cio-summit--san-francisco-bay-area/</guid>
+      <description><![CDATA[December 16, 2021 <br /> The CIO was first introduced to lead the Data Processing and Information Systems departments of the past. Today, the job is a much different role....]]></description>
+    </item>
+    <item>
+      <title><![CDATA[CFO Forum: Driving Forward with Automation in Higher Education]]></title>
+      <link>http://www.govevents.com/details/52035/cfo-forum-driving-forward-with-automation-in-higher-education/</link>
+      <guid>http://www.govevents.com/details/52035/cfo-forum-driving-forward-with-automation-in-higher-education/</guid>
+      <description><![CDATA[December 16, 2021 <br /> During this invite-only roundtable discussion, attendees will learn: The problems higher education institutions are facing, and how automation can...]]></description>
+    </item>
+  </channel>
+</rss>
