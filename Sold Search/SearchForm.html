@@ -1,0 +1,135 @@
+<html>
+
+<style type="text/css">
+@media only screen and (min-width: 1220px) {
+    #mygrid {
+        display: -ms-grid;
+        -ms-grid-columns: 1fr 10px 1fr 10px 1fr;
+        -ms-grid-rows: 100px 1fr;
+        margin: 2.5px;
+    }
+    #myheader {
+            -ms-grid-row: 1;
+            -ms-grid-column: 1;
+            -ms-grid-column-span: 5;
+            background-color: #EEB215;
+    }
+    #block1 {
+            -ms-grid-row: 2;
+            -ms-grid-column: 1;
+            background-color: #B2B0B0;
+    }
+    #block2 {
+            -ms-grid-row: 2;
+            -ms-grid-column: 3;
+            background-color: #726E6E;
+            }
+    #block3 {
+            -ms-grid-row: 2;
+            -ms-grid-column: 5;
+            background-color: #515050;
+    }
+    #myfooter {
+	    -ms-grid-row: 3;
+            -ms-grid-column: 1;
+            -ms-grid-column-span: 5;
+            background-color: #EEB215;
+    }
+    #rightsidebar{
+            background-color: #EEB215;
+            background-opacity: .5;
+    }
+}
+
+@media only screen and (max-width : 1219px) {
+    #mygrid {
+        display: -ms-grid;
+        margin: 3px;
+        -ms-grid-columns: 100%; /*one column taking full width */
+        -ms-grid-rows: 70px auto auto auto; /*4 rows */
+    }
+    #myheader {
+            -ms-grid-row: 1;
+            -ms-grid-column: 1;
+	    background-color: #EEB215;
+    }
+    #block1 {
+            -ms-grid-row: 2; /*place into row 2 / column 1*/
+            -ms-grid-column: 1;
+	    background-color: #B2B0B0;
+    }
+    #block2 {
+            -ms-grid-row: 3;
+            -ms-grid-column: 1;
+            background-color: #726E6E;
+    }
+    #block3 {
+            -ms-grid-row: 4;
+            -ms-grid-column: 1;
+            background-color: #515050;
+    }
+    #myfooter {
+	    -ms-grid-row: 5;
+            -ms-grid-column: 1;
+            background-color: #EEB215;
+    }
+    #rightsidebar{
+            background-color: #EEB215;
+            background-opacity: .5;
+    }
+}
+
+</style>
+
+<div id="mygrid">
+        <header id="myheader">
+                &nbsp;<br>
+                <center><h1>SOLD SEARCHER</h1></center>
+                &nbsp;<br>
+        </header>
+        <div id="block1">
+                &nbsp;<br>
+                <center><h2>How to Use It</h2>
+                <i><p>
+                      Enter the item you are looking for a seconadary market value for then select the sites you would like to search and click submit. It will open each checked site in a seperate window. Currently this is still in an alpha phase I intend on adding ebay and google as well. Which should be quite easy. I may also add some limited webscrapping for getting daily changing prices such as gold and diamond prices.
+                </p></i>
+                &nbsp;<br>
+                </center>
+        </div>
+        <div id="block2">
+                &nbsp;<br>
+                <center><h2>Search For</h2>
+  		
+  		<form action="/cgi-bin/Search.py">
+	
+		<input type="text" name="searcher" size=20>
+		<br>
+		<br>		
+		<input type="submit" name="submit">
+		<br>
+		</center>
+		&nbsp;<br>
+		&nbsp;<br>           
+        </div>
+                <div id="block3">
+                &nbsp;<br>
+                <center><h2>Where Would you like to search?</h2>
+        
+		<input type="checkbox" name="Auction1">LiveAuctioneers<br>
+		<input type="checkbox" name="Auction2">Invaluable<br>
+		<input type="checkbox" name="Auction3">Southbys<br>
+		<input type="checkbox" name="Auction4">AuctionZip<br>
+		<input type="checkbox" name="Auction5">Gem Rock Auctions<br>
+		<input type="checkbox" name="Auction6">Add All<br>
+		</center>
+		&nbsp;<br>
+
+		</form>
+              
+        </div>
+		<div id="myfooter">
+                <center>Copyright Hunter Cronier</center>             
+        </div>
+</div>
+
+</html>
