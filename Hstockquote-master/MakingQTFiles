@@ -1,9 +1,0 @@
-
-
-get to the directory your name file is in
-
-chdir desktop
-
-changes the ui file to py file for use
-
-C:/Python27/Lib/site-packages/PyQt4/pyuic4 name.ui -o name.py
